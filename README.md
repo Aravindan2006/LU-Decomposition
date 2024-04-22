@@ -9,9 +9,12 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 Step1 : Import the module numpy and assign numpy as np
+
 Step 2: Create an variable named 'a' and use np.array(eval(input())) for the matrix values by
         first list as first row and so on
+        
 Step 3: Using the  from scipy.linalg,  of the given matrix.
+
 Step 4: Print the Eigenvalue and Eigenvector
 
 
