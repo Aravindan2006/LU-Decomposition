@@ -37,7 +37,6 @@ print(U)
 Developed by: ARAVINDAN D
 RegisterNumber: 21223240012
 '''
-# To print X matrix (solution to the equations)
 
 import numpy as np
 from scipy .linalg import lu_factor , lu_solve
@@ -51,8 +50,10 @@ print(x)
 ```
 
 ## Output:
+(i) To find the L and U matrix
 ![Screenshot 2024-04-22 154240](https://github.com/Aravindan2006/LU-Decomposition/assets/151760062/50bf3ff0-9c13-43e0-a607-0af910f88145)
 
+(ii) To find the LU Decomposition of a matrix
 ![Screenshot 2024-04-22 154258](https://github.com/Aravindan2006/LU-Decomposition/assets/151760062/8a781049-342a-4bb4-847a-ebdae4139aff)
 
 
